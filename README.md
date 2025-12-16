@@ -2,7 +2,8 @@
   <img src = 'https://github.com/Meet2304/Project-Vigil/blob/main/Project%20Vigil_Header_v0.1.png'>
 </p>
 
-<h1 align="center">Project-Vigil: Malicious Prompt Classifier with Leave-One-Out Deletion Approach for Prompt Sanitization</h1>
+<h1 align="center">Project-Vigil</h1>
+<h2 align = "center">Malicious Prompt Classifier with Leave-One-Out Deletion Approach for Prompt Sanitization</h2>
 
 <p align = 'justify'>
 Every era has its guardian. Once, it was a lone sentinel standing through the night—silent, focused, and unshakable—watching for the faintest sign of danger before it reached the gates.
